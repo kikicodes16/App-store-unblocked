@@ -1,0 +1,44 @@
+appstore-fake/
+├── .github/
+│   ├── workflows/
+│   │   └── ci.yml
+│   └── ISSUE_TEMPLATE/
+│       ├── bug_report.md
+│       └── feature_request.md
+├── src/
+│   ├── components/
+│   │   ├── AppCard/
+│   │   │   ├── AppCard.jsx
+│   │   │   ├── AppCard.css
+│   │   │   └── index.js
+│   │   ├── Navigation/
+│   │   ├── SearchBar/
+│   │   └── AppDetails/
+│   ├── pages/
+│   │   ├── Home/
+│   │   ├── Search/
+│   │   ├── AppPage/
+│   │   └── Categories/
+│   ├── data/
+│   │   └── apps.json
+│   ├── assets/
+│   │   ├── icons/
+│   │   └── images/
+│   ├── styles/
+│   │   └── global.css
+│   └── utils/
+│       └── helpers.js
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── tests/
+│   ├── unit/
+│   └── integration/
+├── docs/
+│   ├── API.md
+│   └── CONTRIBUTING.md
+├── README.md
+├── package.json
+├── .gitignore
+├── LICENSE
+└── CONTRIBUTING.md
